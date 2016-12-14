@@ -9,7 +9,7 @@ Use this README.md file for the steps for this exercise.
 3. Move the mp3 file that you downloaded in an earlier question into this directory
 
 4. Note the following:
- - Be sure to use the actual name of the executable that you compiled in question 13
+ - Be sure to use the actual name of the executable that you compiled in question 11
  - You will need to modify the command for playing the music file as noted in the comments 
 
 5. Run permissions to create an executable file
